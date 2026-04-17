@@ -10,7 +10,7 @@
 - 🔭 Je travaille actuellement sur un **home lab de cyberdéfense**, avec simulation d’incidents, corrélation via MITRE ATT&CK et visualisation sur dashboards Elastic.
 - 🌱 J’apprends actuellement tout ce qui touche à la cybersécurité offensive et défensive : concepts, outils, techniques et bonnes pratiques.
 - 👯 Je cherche à collaborer sur des projets open source liés à la **détection d’intrusion**, aux **environnements SOC**, ou aux **CTF** (Web et Reverse).
-- 📫 Contact : nolhan.dupalan@ecole2600.com  
+- 📫 Contact :  
 - 📍 Localisation : Île-de-France, France  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nolhan-dupalan/) | [GitHub](https://github.com/IAMTHEROOTx) | [Root-Me](https://www.root-me.org/IAMTHEROOT)
 
