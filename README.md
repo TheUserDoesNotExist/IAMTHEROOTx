@@ -12,7 +12,7 @@
 - 👯 Je cherche à collaborer sur des projets open source liés à la **détection d’intrusion**, aux **environnements SOC**, ou aux **CTF** (Web et Reverse).
 - 📫 Contact :  
 - 📍 Localisation : Île-de-France, France  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nolhan-dupalan/) | [GitHub](https://github.com/IAMTHEROOTx) | [Root-Me](https://www.root-me.org/IAMTHEROOT)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nolhan-dupalan/) | [GitHub](https://github.com/TheUserDoesNotExist) | [Root-Me](https://www.root-me.org/IAMTHEROOT)
 
 ---
 
